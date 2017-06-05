@@ -13,7 +13,6 @@ class Number
                 System.out.println("positive");
             }
             else
-}
             {
                 System.out.println("negative");
             }
@@ -23,3 +22,4 @@ class Number
             System.out.println("zero");
         }
     }
+}    
