@@ -1,5 +1,5 @@
 import java.util.*;
-class s
+class subset
 {
 public static void main(String args[])
 {
